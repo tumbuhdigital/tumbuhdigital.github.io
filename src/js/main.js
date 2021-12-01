@@ -17,7 +17,7 @@
   function revealAnimations () {
     sr.reveal('.feature', {
       duration: 600,
-      distance: '20px',
+      distxance: '20px',
       easing: 'cubic-bezier(0.215, 0.61, 0.355, 1)',
       origin: 'right',
       viewFactor: 0.2
